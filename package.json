@@ -42,14 +42,12 @@
     "run-parallel-limit": "^1.0.5"
   },
   "devDependencies": {
-    "coveralls": "^2.13.3",
     "express": "^4.17.1",
     "jest": "^20.0.4",
     "standard": "^12.0.1"
   },
   "scripts": {
-    "test": "standard && jest --ci",
-    "coveralls": "cat ./coverage/lcov.info | coveralls"
+    "test": "standard && jest --ci"
   },
   "files": [
     "index.js",

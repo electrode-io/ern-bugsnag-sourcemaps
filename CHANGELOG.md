@@ -1,3 +1,5 @@
+# Version history below is the one from original repository (at the moment of initial fork)
+
 # 1.2.2 (2019-11-01)
 
 ## Bug fixes
