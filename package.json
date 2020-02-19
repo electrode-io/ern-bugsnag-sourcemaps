@@ -1,13 +1,15 @@
 {
-  "name": "bugsnag-sourcemaps",
-  "version": "1.2.2",
+  "name": "ern-bugsnag-sourcemaps",
+  "version": "1.0.0",
   "keywords": [
     "bugsnag",
-    "source-maps"
+    "source-maps",
+    "ern",
+    "electrode-native"
   ],
-  "homepage": "https://github.com/bugsnag/bugsnag-sourcemaps",
+  "homepage": "https://github.com/electrode-io/ern-bugsnag-sourcemaps",
   "bugs": {
-    "url": "https://github.com/bugsnag/bugsnag-sourcemaps/issues"
+    "url": "https://github.com/electrode-io/ern-bugsnag-sourcemaps/issues"
   },
   "bin": "cli.js",
   "license": "MIT",
@@ -16,6 +18,12 @@
     "email": "git@jacobmarshall.co",
     "url": "https://j.msh.al"
   },
+  "contributors": [
+    {
+      "name": "Benoit Lemaire",
+      "email": "blemaire@walmartlabs.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/bugsnag/bugsnag-sourcemaps.git"
