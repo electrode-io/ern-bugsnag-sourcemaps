@@ -14,6 +14,6 @@
   "dependencies": {
     "@bugsnag/js": "^6.2.0",
     "@types/node": "^12.0.2",
-    "typescript": "^3.4.5"
+    "typescript": "^3.8.3"
   }
 }
